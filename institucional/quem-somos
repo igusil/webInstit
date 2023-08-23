@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Quem somos</title>
+        <meta name="description" content="Quem somos - Hospital do Olho">
+        <link href="" rel="shortcut icon" type="image/png">
+
+                        <meta property="og:site_name" content='Hospital do Olho' />
+                <meta property="og:locale" content='pt_BR' />
+                <meta property="og:url" content="http://hospitaldoolho.com/institucional/quem-somos" />
+                <meta property="og:description" content="Quem somos - Hospital do Olho"/>
+                <meta property="og:title" content="Quem somos"/>
+                <meta property='og:image' content='/images/logo.png' />
+                <meta property='og:type' content='website' />
+                <!-- Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700italic,700,900,900italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Raleway:400,800italic,800,900italic,900,700italic,700,600italic,600,500italic,500,400italic,300italic,300,200italic,200,100italic,100' rel='stylesheet' type='text/css'>
+
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/animations.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/flaticon.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/settings.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/layers.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/navigation.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/slider-one-thumb.css" />
+        <link rel="stylesheet" type="text/css" href="/css/site/owl.carousel.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/owl.theme.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/twentytwenty.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/style.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/color.css">
+        <!-- Custom Css -->
+        <link rel="shortcut icon" href="/images/site/favicon.png" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+        <style type="text/css">
+            .footer a:hover, .footer .copyright a {
+                color: white;
+            }
+
+            .right-top i, a, a.reverse:hover, a.reverse:focus, .footer .footer-call i:before, .footer .list-type1 li:before, .read-more {
+                color: #1c57a8;
+            }
+
+            .slider1 .banner-thumbs ul.slider-thumbnails li a span, .btn-type1-reverse, .btn-type1 {
+                background-color: #1c57a8;
+            }
+
+            .slider1 .banner-thumbs ul.slider-thumbnails li.active {
+                border-top: 4px solid #0195da;
+            }
+
+            .icon-bordered {
+                border: 3px solid #0195da;
+            }
+            .table-min .dl-horizontal dt, .table-min .dl-horizontal dd {
+                color: #abadaf;
+                font-weight: bold;
+            }
+
+            .navbar-default {
+                background-color: initial;
+            }
+
+            .top-bar.top-bar-white, .grow-mode {
+                background-color: #f5f5f5;
+            }
+
+            .rs-overlay {
+                background: rgba(0, 0, 0, 0.05);
+            }
+
+            .mask-img:after {
+                background: rgba(0,0,0,.1);
+            } 
+
+            .div-bibi p {
+                position: relative;
+                top: 70px;
+            }
+
+
+            @media only screen and (max-width: 450px) {
+                .slicknav_btn {
+                    float: left;
+                }
+
+                .navbar-brand {
+                    width: 200px;
+                    position: relative;
+                    left: 50px;
+                    padding: 0px;
+                }
+
+                .div-bibi p {
+                    top: 15px;
+                }
+
+                .img-bibi {
+                    margin-bottom: -30px;
+                    margin-top: 10px !important;
+                    border-bottom: 1px solid;
+                    top: 0px !important;
+                }
+
+                .h1-background-brand {
+                    margin-top: 0px !important;
+                    margin-bottom: 40px !important;
+                    margin-left: 90px !important;
+                    padding-bottom: 120px;
+                    position: relative;
+                    top: 80px;
+                }
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div class="wrapper">
+            <header id="header" class="grow-mode">
+                <div class="top-bar top-bar-white">
+                    <div class="container">
+                        <div class="row">
+                            <div class="top-bar-left">
+                                <ul class="social-icons clearfix">
+                                    <li>
+                                        <a title="Facebook Hospital do Olho" href="https://www.facebook.com/hospitaldoolhothe/" target="blank" data-toggle="tooltip" data-placement="bottom" title="Facebook">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a title="Youtube Hospital do Olho" href="https://www.youtube.com/channel/UC27CYhbbYt4FA1r_-WA57hA" target="blank" data-toggle="tooltip" data-placement="bottom" title="Youtube">
+                                            <i class="fa fa-youtube"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a title="Instagram Hospital do Olho" href="https://www.instagram.com/hospitaldoolhothe/" target="blank" data-toggle="tooltip" data-placement="bottom" title="Instagram">
+                                            <i class="fa fa-instagram"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="top-bar-right">
+                                <ul class="right-top pull-left">
+                                    <li><a target="blank" title="Endereço Hospital do Olho" href="https://goo.gl/maps/MnFx5k3YXRQ2"><i class="fa fa-map-marker"></i>R. Magalhães Filho, 161 - Centro/S</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-clock-o"></i>Segunda - Sexta : 07h às 18h</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-phone"></i> (86) 3194-1000</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-whatsapp"></i> (86) 99906-0047</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="close fa fa-chevron-down"></span>    
+                </div>
+                
+                <nav class="navbar navbar-default dropdown-white">
+                    <div class="container">
+                        <div class="menu clearfix" style="display: flex; align-items: center; justify-content: space-between;">
+                            <div class="navbar-header">
+                                <a class="navbar-brand" title="Hospital do Olho" href="/">
+                                    <img src="/images/site/logo.png" alt="Hospital do Olho" class="img-responsive center-block">
+                                </a>
+                            </div>
+                            <div class="collapse navbar-collapse js-navbar-collapse text-center">
+                                <ul id="sub-nav" class="nav navbar-nav navbar-menu" style="display: flex; align-items: center;">
+                                    <li>
+                                        <a title="Quem somos Hospital do Olho" href="/institucional/quem-somos" class="">Quem somos </a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" style="line-height: 17px;">
+                                            Política <br>
+                                            de Privacidade
+                                        </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li>
+                                                <a href="https://drive.google.com/file/d/18SRYCO-8kNlKBFYJ4L12H4sjvkSFnDAN/view" title="Termos e Condições de Uso Hospital do Olho" target="_blank">
+                                                    Termos e Condições de Uso
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://drive.google.com/file/d/1wiejTTDwYQNnzfVN_pMN5JmqdUzrjlaG/view?usp=sharing" title="Política de Privacidade" target="_blank">
+                                                    Política de Privacidade
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Serviços </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a title="Exames e Cirurgias Hospital do Olho" href="/institucional/servicos#exames_cirurgias">Exames e Cirurgias</a></li>
+                                            <li><a title="Lentes de contato Hospital do Olho" href="/institucional/lentes-de-contato">Lentes de contato</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a title="Equipe médica Hospital do Olho" href="/institucional/equipe-medica">Equipe médica </a>
+                                    </li>
+                                    <li>
+                                        <a title="Convênios Hospital do Olho" href="/institucional/convenios">Convênios </a>
+                                    </li>
+                                    <li>
+                                        <a title="Blog Hospital do Olho" href="/blog">Dicas e Notícias </a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contato </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a title="Fale conosco Hospital do Olho" href="/contato">Fale conosco</a></li>
+                                            <li><a title="Trabalhe conosco Hospital do Olho" href="mailto:hot.curriculo@gmail.com?subject=Trabalhe Conosco">Trabalhe conosco</a></li>
+                                            <li><a target="blank" title="Marcação de consultas  Hospital do Olho" href="https://api.whatsapp.com/send?phone=5586999060047&text=Marcação de consultas">Marcação de consultas</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+<div class="wrapper">
+	<section class="hospital white-bg">
+	    <div class="container">
+	    	<h1 style="margin-top: 30px;">Quem somos</h1>
+            <hr>
+	        <div class="row">
+	            <div class="clearfix marbot20">
+	                <!-- Left Content -->
+	                <div class="col-md-5">
+	                    <div class="heading text-center" style="margin-bottom: 20px;">
+	                        <p class="lead lead-lg"> Sempre enxergando a vida com você! </p>
+	                    </div>
+	                    <div class="clearfix">
+	                    	<p><strong>Miss&atilde;o</strong></p>
+
+							<p>Oferecer serviços de referência em oftalmologia, valorizando colaboradores e equipe médica, assegurando a satisfação e confiança dos nossos clientes e parceiros.</p>
+
+							<p><strong>Vis&atilde;o</strong></p>
+
+							<p>Ser referência nacional em assistência oftalmológica de qualidade, com foco em humanização e amor ao cliente.</p>
+
+							<p><strong>Valores</strong></p>
+							
+							<p>
+								<ul><li>&Eacute;tica;</li><li>Meritocracia;</li><li>Conforto e bem estar;</li><li>Amor;</li><li>Humaniza&ccedil;&atilde;o;</li><li>Responsabilidade Social.</li></ul>
+							</p>
+
+	                    </div>
+	                </div>
+	                
+	                <div class="col-md-6 col-md-offset-1 animatedParent animateOnce" data-sequence="250" data-appear-top-offset="-300">
+	                    <div class="row marbot10">
+	                        <div class="clearfix">
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/1.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/2.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+	                        </div>
+	                        <div class="clearfix">
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/3.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/4.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+	                        </div>
+	                        <div class="clearfix">
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/5.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/6.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+	                        </div>
+	                        <div class="clearfix">
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/tecnologia-2.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+
+	                            <div class="col-md-6 col-sm-6 fadeInRight animated go" data-id="1">
+                                    <div class="grid image-effect2 marbot30">
+                                        <figure>
+                                            <img src="/images/fotos/tecnologia.jpg" alt=" " class="img-responsive fullwidth" style="border-radius: 5px;">
+                                        </figure>
+                                    </div>
+	                            </div>
+	                        </div>
+	                    </div>
+	                </div>
+	                
+	            </div>
+	        </div>
+	    </div>
+
+	    <div class="container">
+    <h3 class="text-center">
+        <a target="blank" title="Instagram Hospital do olho" href="https://www.instagram.com/hospitaldoolhothe/">
+            @hospitaldoolhothe <i style="font-size: .75em;" class="fa fa-external-link"></i>
+        </a>
+    </h3>
+    <hr>
+</div>
+
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/956116" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!4v1534269552206!6m8!1m7!1sCAoSLEFGMVFpcE9lU2lsczRnNXotS3I3RnBZc2VUV0ZOeGdWNGFFWXJSNnZmeU5y!2m2!1d-5.089913939210852!2d-42.80633948740149!3f213.7330357153387!4f-4.580521857715439!5f0.7820865974627469" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15896.339595311742!2d-42.8063061!3d-5.089973!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ed243316eeb5207!2sHospital+do+Olho!5e0!3m2!1spt-BR!2sbr!4v1532353072579" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+	</section>
+</div>
+
+            <footer id="footer">
+                <div class="footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="clearfix marbot20">
+                                <div class="col-md-3 col-sm-6 marbot50-md-xs">
+                                    <h4 class="footer-title">Quem somos</h4>
+                                    <p class="fontresize">
+                                        <b>Hospital do Olho</b> é pioneiro em diversos tratamentos no país e desponta como uma instituição médica a possuir equipamentos de alta eficácia para a realização de variados tipos de exames e cirurgias.
+                                </div>
+                                <div class="col-md-3 col-sm-6 marbot50-md-xs">
+                                    <div class="f-type2-address">
+                                        <h4 class="footer-title">Fale conosco </h4>
+                                        <div class="footer-call">
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="flaticon-technology-6"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    <p class="fontresize marbot0">
+                                                       R. Magalhães Filho, 161 - Centro/S <br> Teresina - PI
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="fa fa-whatsapp"></i>
+                                                    <!-- <i class="flaticon-clock"></i> -->
+                                                </div>
+                                                <div class="media-body">
+                                                    <a target="blank" href="https://api.whatsapp.com/send?phone=5586999060047"> 
+                                                        (86) 99906-0047
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="flaticon-clock"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    (86) 3194-1000
+                                                </div>
+                                            </div>
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="fa fa-envelope"></i>
+                                                </div>
+                                                <div class="media-body" style="font-size: .85em;">
+                                                    ouvidoriaadm@hospitaldoolho.com
+                                                </div>
+                                            </div>
+
+                                            <div class="media">
+                                                <div class="media-left">
+                                                    <i class="fa fa-envelope"></i>
+                                                </div>
+                                                <div class="media-body" style="font-size: .85em;">
+                                                    dpo@hospitaldoolho.com
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="visible-sm clearfix"></div>
+                                <div class="col-md-3 col-sm-6 marbot30-md-xs">
+                                    <h4 class="footer-title"> Nossos serviços </h4>
+                                    <div class="clearfix">
+                                        <ul class="list-type1">
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Consultas  </a></li>
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Exames </a></li>
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Cirurgias </a></li>
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Lentes de contato </a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="clearfix table-min marbot30-md-xs">
+                                        <h4 class="footer-title">Horários de atendimento</h4>
+                                        <dl class="dl-horizontal">
+                                            <dt>SEGUNDA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>TERÇA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>QUARTA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>QUINTA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>SEXTA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-seperator"></div>
+                        <div class="row">
+                            <div class="clearfix footer-bottom-strip">
+                                <div class="col-md-6">
+                                    <div class="copyright marbot30-md-xs">
+                                        Copyright © 2023 <span class="bold">Hospital do Olho</span>. Todos os direitos reservados. 
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="clearfix">
+                                        <ul class="footer-strip-menu list-unstyled">
+                                            <li><a title="Página inicial" href="/">Início</a></li>
+                                            <li><a title="Quem somos" href="/institucional/quem-somos">Sobre nós</a></li>
+                                            <li><a title="Serviços" href="/servicos">Serviços </a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-strip animatedParent">
+                        <a href="#" data-html="true" title="Back To Top" data-toggle="tooltip" class="back-to-top text-center"> 
+                        <i class="fa fa-angle-double-up transition fadeInUp animated"></i>            </a>
+                        <div class="footer-bottom-border"></div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        
+        <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.easing-1.3.min.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.slicknav.min.js"></script>
+
+        <script type="text/javascript" src="/js/site/sscr.js"></script>
+        
+        <script type="text/javascript" src="/js/site/modernizr-2.8.3.min.js"></script> 
+        <script type="text/javascript" src="/js/site/jquery.hoverdir.js"></script> 
+        
+        <script type="text/javascript" src="/js/site/jquery.event.move.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.twentytwenty.js"></script>
+        <!-- // Twenty Twenty Slider -->
+        <!-- Owl Slider JS -->
+        <script type="text/javascript" src="/js/site/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="/js/site/custom-owl.js"></script>
+        <!-- // Owl Slider JS -->
+        <!-- BX Slider JS -->
+        <script type="text/javascript" src="/js/site/jquery.bxslider.min.js"></script>
+        <script type="text/javascript" src="/js/site/custom-bxslider.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.isotope.min.js"></script>
+        <!-- // BX Slider JS -->
+        <!-- Revolution Slider 4.6.5 -->
+        <script type="text/javascript" src="/js/site/revolution-4.6.5/jquery.themepunch.tools.min.js"></script>
+        <script type="text/javascript" src="/js/site/revolution-4.6.5/jquery.themepunch.revolution.min.js"></script>
+        <script type="text/javascript" src="/js/site/revolution-4.6.5/custom-renovation-slide-thumbs.js"></script>
+        <!-- Revolution Slider 4.6.5 -->
+
+        <script type="text/javascript" src="/js/site/css3-animate-it.js"></script>
+        <script type="text/javascript" src="/js/site/custom-general.js"></script>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.1&appId=101403027367752&autoLogAppEvents=1';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123351665-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-123351665-1');
+        </script>
+    </body>
+</html>            

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Blog Hospital do Olho</title>
+        <meta name="description" content="Dicas e novidades Hospital do Olho">
+        <link href="" rel="shortcut icon" type="image/png">
+
+                        <meta property="og:site_name" content='Hospital do Olho' />
+                <meta property="og:locale" content='pt_BR' />
+                <meta property="og:url" content="http://hospitaldoolho.com/blog" />
+                <meta property="og:description" content="Dicas e novidades Hospital do Olho"/>
+                <meta property="og:title" content="Blog Hospital do Olho"/>
+                <meta property='og:image' content='/images/logo.png' />
+                <meta property='og:type' content='website' />
+                <!-- Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700italic,700,900,900italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Raleway:400,800italic,800,900italic,900,700italic,700,600italic,600,500italic,500,400italic,300italic,300,200italic,200,100italic,100' rel='stylesheet' type='text/css'>
+
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/animations.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/flaticon.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/settings.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/layers.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/navigation.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/revolution-4.6.5/slider-one-thumb.css" />
+        <link rel="stylesheet" type="text/css" href="/css/site/owl.carousel.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/owl.theme.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/twentytwenty.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/style.css">
+        <link rel="stylesheet" type="text/css" href="/css/site/color.css">
+        <!-- Custom Css -->
+        <link rel="shortcut icon" href="/images/site/favicon.png" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+        <style type="text/css">
+            .footer a:hover, .footer .copyright a {
+                color: white;
+            }
+
+            .right-top i, a, a.reverse:hover, a.reverse:focus, .footer .footer-call i:before, .footer .list-type1 li:before, .read-more {
+                color: #1c57a8;
+            }
+
+            .slider1 .banner-thumbs ul.slider-thumbnails li a span, .btn-type1-reverse, .btn-type1 {
+                background-color: #1c57a8;
+            }
+
+            .slider1 .banner-thumbs ul.slider-thumbnails li.active {
+                border-top: 4px solid #0195da;
+            }
+
+            .icon-bordered {
+                border: 3px solid #0195da;
+            }
+            .table-min .dl-horizontal dt, .table-min .dl-horizontal dd {
+                color: #abadaf;
+                font-weight: bold;
+            }
+
+            .navbar-default {
+                background-color: initial;
+            }
+
+            .top-bar.top-bar-white, .grow-mode {
+                background-color: #f5f5f5;
+            }
+
+            .rs-overlay {
+                background: rgba(0, 0, 0, 0.05);
+            }
+
+            .mask-img:after {
+                background: rgba(0,0,0,.1);
+            } 
+
+            .div-bibi p {
+                position: relative;
+                top: 70px;
+            }
+
+
+            @media only screen and (max-width: 450px) {
+                .slicknav_btn {
+                    float: left;
+                }
+
+                .navbar-brand {
+                    width: 200px;
+                    position: relative;
+                    left: 50px;
+                    padding: 0px;
+                }
+
+                .div-bibi p {
+                    top: 15px;
+                }
+
+                .img-bibi {
+                    margin-bottom: -30px;
+                    margin-top: 10px !important;
+                    border-bottom: 1px solid;
+                    top: 0px !important;
+                }
+
+                .h1-background-brand {
+                    margin-top: 0px !important;
+                    margin-bottom: 40px !important;
+                    margin-left: 90px !important;
+                    padding-bottom: 120px;
+                    position: relative;
+                    top: 80px;
+                }
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div class="wrapper">
+            <header id="header" class="grow-mode">
+                <div class="top-bar top-bar-white">
+                    <div class="container">
+                        <div class="row">
+                            <div class="top-bar-left">
+                                <ul class="social-icons clearfix">
+                                    <li>
+                                        <a title="Facebook Hospital do Olho" href="https://www.facebook.com/hospitaldoolhothe/" target="blank" data-toggle="tooltip" data-placement="bottom" title="Facebook">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a title="Youtube Hospital do Olho" href="https://www.youtube.com/channel/UC27CYhbbYt4FA1r_-WA57hA" target="blank" data-toggle="tooltip" data-placement="bottom" title="Youtube">
+                                            <i class="fa fa-youtube"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a title="Instagram Hospital do Olho" href="https://www.instagram.com/hospitaldoolhothe/" target="blank" data-toggle="tooltip" data-placement="bottom" title="Instagram">
+                                            <i class="fa fa-instagram"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="top-bar-right">
+                                <ul class="right-top pull-left">
+                                    <li><a target="blank" title="Endereço Hospital do Olho" href="https://goo.gl/maps/MnFx5k3YXRQ2"><i class="fa fa-map-marker"></i>R. Magalhães Filho, 161 - Centro/S</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-clock-o"></i>Segunda - Sexta : 07h às 18h</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-phone"></i> (86) 3194-1000</a></li>
+                                    <li><a href="javascript:void(0)"><i class="fa fa-whatsapp"></i> (86) 99906-0047</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="close fa fa-chevron-down"></span>    
+                </div>
+                
+                <nav class="navbar navbar-default dropdown-white">
+                    <div class="container">
+                        <div class="menu clearfix" style="display: flex; align-items: center; justify-content: space-between;">
+                            <div class="navbar-header">
+                                <a class="navbar-brand" title="Hospital do Olho" href="/">
+                                    <img src="/images/site/logo.png" alt="Hospital do Olho" class="img-responsive center-block">
+                                </a>
+                            </div>
+                            <div class="collapse navbar-collapse js-navbar-collapse text-center">
+                                <ul id="sub-nav" class="nav navbar-nav navbar-menu" style="display: flex; align-items: center;">
+                                    <li>
+                                        <a title="Quem somos Hospital do Olho" href="/institucional/quem-somos" class="">Quem somos </a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" style="line-height: 17px;">
+                                            Política <br>
+                                            de Privacidade
+                                        </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li>
+                                                <a href="https://drive.google.com/file/d/18SRYCO-8kNlKBFYJ4L12H4sjvkSFnDAN/view" title="Termos e Condições de Uso Hospital do Olho" target="_blank">
+                                                    Termos e Condições de Uso
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="https://drive.google.com/file/d/1wiejTTDwYQNnzfVN_pMN5JmqdUzrjlaG/view?usp=sharing" title="Política de Privacidade" target="_blank">
+                                                    Política de Privacidade
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Serviços </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a title="Exames e Cirurgias Hospital do Olho" href="/institucional/servicos#exames_cirurgias">Exames e Cirurgias</a></li>
+                                            <li><a title="Lentes de contato Hospital do Olho" href="/institucional/lentes-de-contato">Lentes de contato</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a title="Equipe médica Hospital do Olho" href="/institucional/equipe-medica">Equipe médica </a>
+                                    </li>
+                                    <li>
+                                        <a title="Convênios Hospital do Olho" href="/institucional/convenios">Convênios </a>
+                                    </li>
+                                    <li>
+                                        <a title="Blog Hospital do Olho" href="/blog">Dicas e Notícias </a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contato </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a title="Fale conosco Hospital do Olho" href="/contato">Fale conosco</a></li>
+                                            <li><a title="Trabalhe conosco Hospital do Olho" href="mailto:hot.curriculo@gmail.com?subject=Trabalhe Conosco">Trabalhe conosco</a></li>
+                                            <li><a target="blank" title="Marcação de consultas  Hospital do Olho" href="https://api.whatsapp.com/send?phone=5586999060047&text=Marcação de consultas">Marcação de consultas</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+<style type="text/css">
+    .texto h1, .texto h2, .texto h3 { font-size: 1em; }
+</style>
+
+<div class="main-content">
+    <div class="container pt-20">
+        <h1 style="margin-top: 30px;">Blog Hospital do Olho</h1>
+        <hr>
+        <div class="row">
+            <div class="col-md-12">
+                                        <article class="post clearfix mb-30">
+                            <div class="entry-content border-1px p-20">
+                                <div class="entry-meta media mt-0 no-bg no-border">
+                                    <div class="media-body">
+                                        <div class="event-content pull-left flip" style="margin-bottom: 25px;">
+                                            <h2 class="entry-title text-white text-uppercase m-0 mt-5" style="margin-bottom: 5px; font-size: 2em;">
+                                                <a title="Aprenda como cuidar da saúde dos olhos com 5 dicas" href="/blog/dicas/aprenda-como-cuidar-da-saude-dos-olhos-com-5-dicas-23.html">Aprenda como cuidar da saúde dos olhos com 5 dicas</a>
+                                            </h2>
+                                            <h3 style="font-size: 16px;">Apesar de tão importante para o nosso bem-estar, a saúde dos olhos é constantemente negligenciada</h3>
+                                            <span class="mb-10 text-gray-darkgray mr-10 font-13" style="font-style: italic;">
+                                                <i class="fa fa-calendar mr-5 text-theme-colored"></i> 
+                                                04/08/2018, &agrave;s 17:08 
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mt-10 texto">
+                                    <p>Apesar de tão importante para o nosso bem-estar, a saúde dos olhos é constantemente negligenciada. Em geral, só nos preocupamos com ela de maneira mais específica quando surge algum problema, o que é um erro.</p><p>Para garantir que os seus olhos estejam sempre saudáveis, é importante adotar algumas medidas simples, porém bastante eficazes; confira quais são elas!</p><h2>1. Mantenha seus exames oftalmológicos em dia</h2><p>Quando o assunto é a saúde dos olhos, prevenção é uma das dicas mais importantes. Por isso, é fundamental que você faça seus exames oftalmológicos com a frequência recomendada pelo especialista.</p><p>É importante lembrar que algumas doenças oculares crônicas, como glaucoma, degeneração macular e retinopatia diabética normalmente não apresentam sintomas em seus estágios iniciais, portanto a melhor forma de detecção é mesmo através de exames preventivos.</p><h2>2. Invista em hábitos saudáveis</h2><p>Que uma dieta equilibrada é a chave para uma vida mais saudável você provavelmente já sabia, mas será que você também estava ciente de que alimentar-se corretamente pode ajudar a prevenir uma série de doenças oculares?</p><p>Isso porque se você está livre das chamadas doenças sistêmicas — aquelas que afetam uma série de órgãos ou todo o corpo, como hipertensão e diabetes —, está automaticamente livre de problemas oculares relacionados a elas, como a retinopatia diabética e a hipertensiva.</p><p>E qual é a melhor maneira de evitar problemas de saúde como hipertensão e diabetes? Adotando uma alimentação saudável, ou seja, pobre em açúcares, carboidratos refinados, sódio e gordura.</p><p>A pessoa que, além de se alimentar corretamente, mantém outros hábitos saudáveis — como não fumar e evitar a exposição excessiva à radiação solar —, também evita a Degeneração Macular Relacionada à Idade (DMRI), que é uma das principais causas de cegueira em pessoas com mais de 50 anos de idade.</p><h2>3. Proteja seus olhos do sol</h2><p>É importante que você saiba que usar óculos de sol não é apenas uma questão de gosto pessoal ou estilo. Se escolhidos adequadamente, eles podem ajudar a proteger a retina das radiações solares e de uma série de problemas de visão, inclusive da catarata.</p><p>Na hora de comprar seus óculos, atenção! Verifique se o modelo possui um selo de qualidade garantindo que suas lentes protegem a visão adequadamente contra os raios ultravioletas.</p><p>Um erro bem comum é acreditar que os óculos só são necessários no verão. Isso não é verdade, já que durante o inverno os olhos também estão sujeitos à exposição aos raios ultravioletas. Portanto, faça dos óculos de sol seus grandes aliados!</p><h2>4. Conheça o histórico ocular da sua família</h2><p>É importante que você procure saber se seus parentes próximos tiveram problemas oculares e quais foram eles, pois muitas doenças relacionadas à visão são hereditárias.</p><p>Obviamente que a existência de casos na família não é um fator determinante, mas é sempre bom ficar atento ao risco de desenvolver uma doença ocular mais séria.</p><p>Lembre-se de que o diagnóstico precoce é determinante para a cura de diversos problemas de saúde, portanto é sempre bom estar atento a essas questões.</p><h2>5. Use o computador e/ou celular de maneira adequada</h2><p>Quando você passa muito tempo em frente à tela do computador ou atento ao celular, tende a abrir mais os olhos e a piscar menos, o que pode causar uma diminuição na lubrficação do globo ocular, essencial para a saúde dos olhos.</p><p>Para evitar problemas oftalmológicos decorrentes desta prática, procure piscar com maior frequência e faça pausas de pelo menos 20 segundos a cada 20 minutos que passar olhando para a tela.</p><p>Também é importante manter o monitor a uma distância de 50 centímetros e, se for o caso, usar um colírio recomendado pelo seu oftalmologista. Além disso, procure ajustar corretamente as configurações da tela, especialmente no que diz respeito ao brilho, para que ela não fique clara demais.</p><p>Seguindo essas dicas simples fica mais fácil manter a saúde dos olhos sempre em dia!</p><p>Gostou do nosso post? Então aproveite para saber mais e conheça os 5 alimentos essenciais para a saúde dos seus olhos!</p>                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </article>
+                        <hr>
+                                        <article class="post clearfix mb-30">
+                            <div class="entry-content border-1px p-20">
+                                <div class="entry-meta media mt-0 no-bg no-border">
+                                    <div class="media-body">
+                                        <div class="event-content pull-left flip" style="margin-bottom: 25px;">
+                                            <h2 class="entry-title text-white text-uppercase m-0 mt-5" style="margin-bottom: 5px; font-size: 2em;">
+                                                <a title="Vitaminas para enxergar melhor (e evitar catarata, olho seco…)" href="/blog/dicas/vitaminas-para-enxergar-melhor-e-evitar-catarata-olho-seco-hellip-22.html">Vitaminas para enxergar melhor (e evitar catarata, olho seco…)</a>
+                                            </h2>
+                                            <h3 style="font-size: 16px;">A vitamina C desponta como protagonista na prevenção à catarata. Mas suas colegas de classe também têm truques para proteger os olhos</h3>
+                                            <span class="mb-10 text-gray-darkgray mr-10 font-13" style="font-style: italic;">
+                                                <i class="fa fa-calendar mr-5 text-theme-colored"></i> 
+                                                04/08/2018, &agrave;s 17:08 
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mt-10 texto">
+                                    <p>Desde a época das grandes navegações até hoje, a vitamina C coleciona feitos. No passado, livrou milhares de marinheiros do fatal escorbuto e, hoje, já se sabe que o micronutriente tem participação especial na produção de colágeno e no fortalecimento da imunidade frente a tumores e infecções – quem nunca pegou uma gripe e ouviu a recomendação “vitamina C e cama”?</p><p>Grande parte das vantagens vem do seu poderoso <strong>efeito antioxidante</strong>. É que o nutriente mais célebre das frutas cítricas combate os radicais livres, aquelas moléculas que, em excesso, danificam as células do corpo. Com uma propriedade dessas, fica fácil entender por que o currículo da substância vive crescendo. Seu último emprego, recém-divulgado por estudiosos do King’s College London, na Inglaterra, é atuar em defesa dos olhos.</p><p>O grupo de pesquisa acompanhou 324 pares de gêmeas com idades entre 50 e 83 anos por uma década. Durante esse tempo, a velocidade de progressão da catarata foi medida por meio de fotos do cristalino, a lente natural do olho – na doença, ela fica turva e a visão embaça. Além disso, as voluntárias preencheram um questionário alimentar, no qual constava a ingestão de nutrientes. O cruzamento de dados revelou que, entre as mulheres com maior consumo de ácido ascórbico, o nome oficial da vitamina C, houve redução de 33% no ritmo de evolução da catarata. “Sua ação antioxidante auxiliaria a manter a transparência do cristalino”, traduz o oftalmologista Jae Lee Min, do Hospital Alemão Oswaldo Cruz, em São Paulo.</p>                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </article>
+                        <hr>
+                                        <article class="post clearfix mb-30">
+                            <div class="entry-content border-1px p-20">
+                                <div class="entry-meta media mt-0 no-bg no-border">
+                                    <div class="media-body">
+                                        <div class="event-content pull-left flip" style="margin-bottom: 25px;">
+                                            <h2 class="entry-title text-white text-uppercase m-0 mt-5" style="margin-bottom: 5px; font-size: 2em;">
+                                                <a title="8 hábitos que ajudam a cuidar dos olhos" href="/blog/dicas/8-habitos-que-ajudam-a-cuidar-dos-olhos-21.html">8 hábitos que ajudam a cuidar dos olhos</a>
+                                            </h2>
+                                            <h3 style="font-size: 16px;">Medidas para conservar uma visão afiada e saudável</h3>
+                                            <span class="mb-10 text-gray-darkgray mr-10 font-13" style="font-style: italic;">
+                                                <i class="fa fa-calendar mr-5 text-theme-colored"></i> 
+                                                04/08/2018, &agrave;s 17:08 
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mt-10 texto">
+                                    <p>Entre 1990 e 2015,  os casos de cegueira no mundo aumentaram de 30,6 milhões para 36 milhões, enquanto o número de portadores de algum tipo de <strong>deficiência visual</strong>, de moderada a grave, passou pelo significativo crescimento de 36%. Atualmente, 217 milhões de pessoas no mundo inteiro se encontram em situação parecida – e a previsão é de que, até 2050, esse índice chegue a triplicar.</p><p>Mas como podemos cuidar da <strong>saúde dos olhos</strong> – e, com isso, tentar garantir que não vamos nos tornar parte dessas estatísticas? SAÚDE dá algumas sugestões abaixo.</p><p>1. Não exponha a vista diretamente ao sol – na praia ou na piscina, vá de óculos escuros.</p><p>2. Só use colírios sob prescrição e orientação médica.</p><p>3. Não coce os olhos nem leve as mãos a eles sem uma boa higiene antes.</p><p>4. Pare de fumar – cigarro afeta até a circulação na retina.</p><p>5. Vá ao oftalmo se perceber qualquer alteração no campo visual ou, mesmo sem sintoma algum, faça visitas regulares a partir dos 40.</p><p>6. Pratique atividade física, especialmente ao ar livre.</p><p>7. Navegue no computador e use smartphones com bom senso.</p><p>8. Siga uma alimentação equilibrada e nunca deixe de ingerir fontes de vitamina C (frutas cítricas), luteína (espinafre, milho, gema de ovo…) e ômega-3(pescados).</p>                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </article>
+                        <hr>
+                            </div>
+        </div>
+    </div>
+    
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1534269552206!6m8!1m7!1sCAoSLEFGMVFpcE9lU2lsczRnNXotS3I3RnBZc2VUV0ZOeGdWNGFFWXJSNnZmeU5y!2m2!1d-5.089913939210852!2d-42.80633948740149!3f213.7330357153387!4f-4.580521857715439!5f0.7820865974627469" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15896.339595311742!2d-42.8063061!3d-5.089973!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ed243316eeb5207!2sHospital+do+Olho!5e0!3m2!1spt-BR!2sbr!4v1532353072579" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+</div>
+
+            <footer id="footer">
+                <div class="footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="clearfix marbot20">
+                                <div class="col-md-3 col-sm-6 marbot50-md-xs">
+                                    <h4 class="footer-title">Quem somos</h4>
+                                    <p class="fontresize">
+                                        <b>Hospital do Olho</b> é pioneiro em diversos tratamentos no país e desponta como uma instituição médica a possuir equipamentos de alta eficácia para a realização de variados tipos de exames e cirurgias.
+                                </div>
+                                <div class="col-md-3 col-sm-6 marbot50-md-xs">
+                                    <div class="f-type2-address">
+                                        <h4 class="footer-title">Fale conosco </h4>
+                                        <div class="footer-call">
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="flaticon-technology-6"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    <p class="fontresize marbot0">
+                                                       R. Magalhães Filho, 161 - Centro/S <br> Teresina - PI
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="fa fa-whatsapp"></i>
+                                                    <!-- <i class="flaticon-clock"></i> -->
+                                                </div>
+                                                <div class="media-body">
+                                                    <a target="blank" href="https://api.whatsapp.com/send?phone=5586999060047"> 
+                                                        (86) 99906-0047
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="flaticon-clock"></i>
+                                                </div>
+                                                <div class="media-body">
+                                                    (86) 3194-1000
+                                                </div>
+                                            </div>
+                                            <div class="media marbot20">
+                                                <div class="media-left">
+                                                    <i class="fa fa-envelope"></i>
+                                                </div>
+                                                <div class="media-body" style="font-size: .85em;">
+                                                    ouvidoriaadm@hospitaldoolho.com
+                                                </div>
+                                            </div>
+
+                                            <div class="media">
+                                                <div class="media-left">
+                                                    <i class="fa fa-envelope"></i>
+                                                </div>
+                                                <div class="media-body" style="font-size: .85em;">
+                                                    dpo@hospitaldoolho.com
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="visible-sm clearfix"></div>
+                                <div class="col-md-3 col-sm-6 marbot30-md-xs">
+                                    <h4 class="footer-title"> Nossos serviços </h4>
+                                    <div class="clearfix">
+                                        <ul class="list-type1">
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Consultas  </a></li>
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Exames </a></li>
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Cirurgias </a></li>
+                                            <li><a title="Serviços Hospital do Olho" href="/institucional/servicos">Lentes de contato </a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="clearfix table-min marbot30-md-xs">
+                                        <h4 class="footer-title">Horários de atendimento</h4>
+                                        <dl class="dl-horizontal">
+                                            <dt>SEGUNDA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>TERÇA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>QUARTA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>QUINTA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                        <dl class="dl-horizontal">
+                                            <dt>SEXTA</dt>
+                                            <dd>07H:00 - 18H:00 </dd>
+                                        </dl>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-seperator"></div>
+                        <div class="row">
+                            <div class="clearfix footer-bottom-strip">
+                                <div class="col-md-6">
+                                    <div class="copyright marbot30-md-xs">
+                                        Copyright © 2023 <span class="bold">Hospital do Olho</span>. Todos os direitos reservados. 
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="clearfix">
+                                        <ul class="footer-strip-menu list-unstyled">
+                                            <li><a title="Página inicial" href="/">Início</a></li>
+                                            <li><a title="Quem somos" href="/institucional/quem-somos">Sobre nós</a></li>
+                                            <li><a title="Serviços" href="/servicos">Serviços </a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-strip animatedParent">
+                        <a href="#" data-html="true" title="Back To Top" data-toggle="tooltip" class="back-to-top text-center"> 
+                        <i class="fa fa-angle-double-up transition fadeInUp animated"></i>            </a>
+                        <div class="footer-bottom-border"></div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        
+        <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.easing-1.3.min.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.slicknav.min.js"></script>
+
+        <script type="text/javascript" src="/js/site/sscr.js"></script>
+        
+        <script type="text/javascript" src="/js/site/modernizr-2.8.3.min.js"></script> 
+        <script type="text/javascript" src="/js/site/jquery.hoverdir.js"></script> 
+        
+        <script type="text/javascript" src="/js/site/jquery.event.move.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.twentytwenty.js"></script>
+        <!-- // Twenty Twenty Slider -->
+        <!-- Owl Slider JS -->
+        <script type="text/javascript" src="/js/site/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="/js/site/custom-owl.js"></script>
+        <!-- // Owl Slider JS -->
+        <!-- BX Slider JS -->
+        <script type="text/javascript" src="/js/site/jquery.bxslider.min.js"></script>
+        <script type="text/javascript" src="/js/site/custom-bxslider.js"></script>
+        <script type="text/javascript" src="/js/site/jquery.isotope.min.js"></script>
+        <!-- // BX Slider JS -->
+        <!-- Revolution Slider 4.6.5 -->
+        <script type="text/javascript" src="/js/site/revolution-4.6.5/jquery.themepunch.tools.min.js"></script>
+        <script type="text/javascript" src="/js/site/revolution-4.6.5/jquery.themepunch.revolution.min.js"></script>
+        <script type="text/javascript" src="/js/site/revolution-4.6.5/custom-renovation-slide-thumbs.js"></script>
+        <!-- Revolution Slider 4.6.5 -->
+
+        <script type="text/javascript" src="/js/site/css3-animate-it.js"></script>
+        <script type="text/javascript" src="/js/site/custom-general.js"></script>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.1&appId=101403027367752&autoLogAppEvents=1';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123351665-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-123351665-1');
+        </script>
+    </body>
+</html>            
